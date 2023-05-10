@@ -1,11 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Form from "./pages/form";
 
 function App() {
   return (
         <Form/>
-
   );
 }
 
